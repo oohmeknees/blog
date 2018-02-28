@@ -20,5 +20,14 @@
       <description>How does this work?</description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://oohmeknees.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Wed, 28 Feb 2018 13:55:13 +0000</pubDate>
+      
+      <guid>https://oohmeknees.github.io/blog/posts/my-first-post/</guid>
+      <description>This is my first post Hopefully using github</description>
+    </item>
+    
   </channel>
 </rss>
